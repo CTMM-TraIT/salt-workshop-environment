@@ -1,0 +1,4 @@
+base:
+  'xnat-tut*':
+    - xnat
+    
